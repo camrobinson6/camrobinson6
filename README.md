@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camrobinson6&label=Profile%20views&color=0e75b6&style=flat" alt="camrobinson6" /> </p>
 
-- 🔭 I’m currently working on [Honey Do capstone project](https://github.com/camrobinson6/capstone1.git)
+- 🔭 I’m currently working on [Honey Do List App capstone project](https://github.com/camrobinson6/capstone1.git)
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, Selenium, Express, Node.js**
 
-- 👨‍💻 All of my projects are available at [camrobinson6.github.io](camrobinson6.github.io)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **camrobinson6@gmail.com**
 
