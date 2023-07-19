@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cameron Robinson</h1>
-<h3 align="center">Cybersecurity Analystt</h3>
+<h3 align="center">Cybersecurity Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camrobinson6&label=Profile%20views&color=0e75b6&style=flat" alt="camrobinson6" /> </p>
 
